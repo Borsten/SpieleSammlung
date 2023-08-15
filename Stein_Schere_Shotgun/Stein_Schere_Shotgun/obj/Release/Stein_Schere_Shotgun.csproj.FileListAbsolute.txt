@@ -1,0 +1,11 @@
+C:\Users\Torsten.Grohs\Documents\Projects\Projects\Stein_Schere_Shotgun\Stein_Schere_Shotgun\bin\Release\Stein_Schere_Shotgun.exe.config
+C:\Users\Torsten.Grohs\Documents\Projects\Projects\Stein_Schere_Shotgun\Stein_Schere_Shotgun\bin\Release\Stein_Schere_Shotgun.exe
+C:\Users\Torsten.Grohs\Documents\Projects\Projects\Stein_Schere_Shotgun\Stein_Schere_Shotgun\bin\Release\Stein_Schere_Shotgun.pdb
+C:\Users\Torsten.Grohs\Documents\Projects\Projects\Stein_Schere_Shotgun\Stein_Schere_Shotgun\obj\Release\Stein_Schere_Shotgun.csproj.AssemblyReference.cache
+C:\Users\Torsten.Grohs\Documents\Projects\Projects\Stein_Schere_Shotgun\Stein_Schere_Shotgun\obj\Release\Stein_Schere_Shotgun.csproj.SuggestedBindingRedirects.cache
+C:\Users\Torsten.Grohs\Documents\Projects\Projects\Stein_Schere_Shotgun\Stein_Schere_Shotgun\obj\Release\Stein_Schere_Shotgun.Form1.resources
+C:\Users\Torsten.Grohs\Documents\Projects\Projects\Stein_Schere_Shotgun\Stein_Schere_Shotgun\obj\Release\Stein_Schere_Shotgun.Properties.Resources.resources
+C:\Users\Torsten.Grohs\Documents\Projects\Projects\Stein_Schere_Shotgun\Stein_Schere_Shotgun\obj\Release\Stein_Schere_Shotgun.csproj.GenerateResource.cache
+C:\Users\Torsten.Grohs\Documents\Projects\Projects\Stein_Schere_Shotgun\Stein_Schere_Shotgun\obj\Release\Stein_Schere_Shotgun.csproj.CoreCompileInputs.cache
+C:\Users\Torsten.Grohs\Documents\Projects\Projects\Stein_Schere_Shotgun\Stein_Schere_Shotgun\obj\Release\Stein_Schere_Shotgun.exe
+C:\Users\Torsten.Grohs\Documents\Projects\Projects\Stein_Schere_Shotgun\Stein_Schere_Shotgun\obj\Release\Stein_Schere_Shotgun.pdb
